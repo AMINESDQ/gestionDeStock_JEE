@@ -48,13 +48,7 @@
       "price": 800,
       "quantity": 80,
       "checked": true
-    },
-    {
-      "id": "8",
-      "name": "amine",
-      "price": 800,
-      "quantity": 80,
-      "checked": true
     }
+    
   ]
 }
