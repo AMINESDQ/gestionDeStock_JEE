@@ -1,0 +1,60 @@
+{
+  "produits": [
+    {
+      "id": "1",
+      "name": "pc",
+      "price": 200,
+      "quantity": 20,
+      "checked": true
+    },
+    {
+      "id": "2",
+      "name": "Produit 2",
+      "price": 300,
+      "quantity": 30,
+      "checked": true
+    },
+    {
+      "id": "3",
+      "name": "Produit 3",
+      "price": 400,
+      "quantity": 40,
+      "checked": true
+    },
+    {
+      "id": "4",
+      "name": "produit 4",
+      "price": 600,
+      "quantity": 60,
+      "checked": true
+    },
+    {
+      "id": "5",
+      "name": "produit 5",
+      "price": 700,
+      "quantity": 70,
+      "checked": true
+    },
+    {
+      "id": "6",
+      "name": "amine",
+      "price": 800,
+      "quantity": 80,
+      "checked": true
+    },
+    {
+      "id": "7",
+      "name": "amine",
+      "price": 800,
+      "quantity": 80,
+      "checked": true
+    },
+    {
+      "id": "8",
+      "name": "amine",
+      "price": 800,
+      "quantity": 80,
+      "checked": true
+    }
+  ]
+}
